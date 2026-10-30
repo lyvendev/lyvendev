@@ -4,8 +4,6 @@
 
 **Développeur & Créateur de Manage**
 
-Développement de solutions numériques, bots Discord et applications web.
-
 Je transforme des idées en projets concrets, avec une attention particulière portée à la qualité, à la fiabilité et à l'expérience utilisateur.
 
 <br>
